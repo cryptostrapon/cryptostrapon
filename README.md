@@ -7,15 +7,15 @@ A free AI crypto scam detector and an open education hub. Everything below is fr
 ## Start here
 
 - **Check something suspicious:** [free AI scam detector](https://cryptostrapon.com/scam-detector), no sign-up
-- **Read the cases:** [Dark Bits](https://cryptostrapon.com/dark-bits), 52 documented investigations
-- **Learn the terms:** [glossary of 291 crypto scam terms](https://cryptostrapon.com/glossary)
+- **Read the cases:** [Dark Bits](https://cryptostrapon.com/dark-bits), 53 documented investigations
+- **Learn the terms:** [glossary of 296 crypto scam terms](https://cryptostrapon.com/glossary)
 - **Lost funds?** [What to do next](https://cryptostrapon.com/report-crypto-theft)
 
 ## Open projects
 
 | Project | What it is | Licence |
 |---|---|---|
-| [crypto-scam-quiz](https://github.com/cryptostrapon/crypto-scam-quiz) | 50 scam scenarios as one HTML file and plain JSON. [Try it](https://cryptostrapon.github.io/crypto-scam-quiz/) | MIT code, CC BY 4.0 content |
+| [crypto-scam-quiz](https://github.com/cryptostrapon/crypto-scam-quiz) | 50 core scam scenarios as one HTML file and plain JSON (the website quiz adds a question for every new investigation). [Try it](https://cryptostrapon.github.io/crypto-scam-quiz/) | MIT code, CC BY 4.0 content |
 | [crypto-scam-glossary](https://github.com/cryptostrapon/crypto-scam-glossary) | 11 scam vectors: how they work, red flags, what to do. [Read it](https://cryptostrapon.github.io/crypto-scam-glossary/) | MIT code, CC BY 4.0 content |
 | [cryptostrapon-public](https://github.com/cryptostrapon/cryptostrapon-public) | Investigation and detector methodology, changelog | CC BY 4.0 |
 
