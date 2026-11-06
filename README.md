@@ -15,13 +15,13 @@ A free AI crypto scam detector and an open education hub. Everything below is fr
 
 | Project | What it is | Licence |
 |---|---|---|
-| [npm-install-audit](https://github.com/cryptostrapon/npm-install-audit) | Zero dependency Node script that lists install hooks and risky code in a repo before you run npm install. Made for take-home tests from recruiters and unknown projects. | MIT |
+| [npm-install-audit](https://github.com/cryptostrapon/npm-install-audit) | Zero dependency Node CLI to run on a repo you did not write, before npm install: install hooks, risky code, git hooks, VS Code tasks and a project `.npmrc` that ships its own token or registry. Made for take-home tests from recruiters and unknown projects. Run `npx npm-install-audit ./repo` or add it to CI as a [GitHub Action](https://github.com/marketplace/actions/npm-install-audit). | MIT |
 | [crypto-scam-quiz](https://github.com/cryptostrapon/crypto-scam-quiz) | 50 core scam scenarios as one HTML file and plain JSON (the website quiz has 106 and adds a question for every new investigation). [Try it](https://cryptostrapon.github.io/crypto-scam-quiz/) | MIT code, CC BY 4.0 content |
 | [crypto-scam-glossary](https://github.com/cryptostrapon/crypto-scam-glossary) | 11 scam vectors in depth: how they work, red flags, what to do. The full 301 term glossary is on the website. [Read it](https://cryptostrapon.github.io/crypto-scam-glossary/) | MIT code, CC BY 4.0 content |
 | [cryptostrapon-public](https://github.com/cryptostrapon/cryptostrapon-public) | Investigation and detector methodology, changelog | CC BY 4.0 |
 
 ## Contribute
 
-New scenarios, translations and corrections are welcome. Look for issues labelled **good first issue** in the two projects above. We publish our own audits too: see the v1.1 note in the quiz changelog.
+New scenarios, translations and corrections are welcome. Look for issues labelled **good first issue** in npm-install-audit, the quiz and the glossary. We publish our own audits too: see the v1.1 note in the quiz changelog.
 
 Contact: cryptostrapon@proton.me
