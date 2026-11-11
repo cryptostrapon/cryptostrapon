@@ -24,7 +24,7 @@ A free AI crypto scam detector and an open education hub. Everything below is fr
 
 - Our section "Inspecting a project you did not write" was merged into the [OWASP NPM Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/NPM_Security_Cheat_Sheet.html) ([PR #2908](https://github.com/OWASP/CheatSheetSeries/pull/2908)).
 - The quiz is listed in [Cybersecurity Educational Resources](https://github.com/CSIRT-MU/edu-resources) by CSIRT-MU, Masaryk University.
-- The scam detector is listed in the [Cyber Detective OSINT tools collection](https://github.com/cipher387/osint_stuff_tool_collection) and the [Awesome Crypto Tools Directory](https://github.com/CryptoToolsDirectory/Awesome-Crypto-Tools-Directory).
+- The scam detector is listed in the [OSINT tool collection](https://github.com/cipher387/osint_stuff_tool_collection) by Cyb_detective and the [Awesome Crypto Tools Directory](https://github.com/CryptoToolsDirectory/Awesome-Crypto-Tools-Directory).
 - Our investigations are listed in [Awesome Financial Crime](https://github.com/SKR-35/Awesome-Financial-Crime) and named in its v1.6.0 release notes.
 
 ## Contribute
