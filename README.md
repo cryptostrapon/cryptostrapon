@@ -23,7 +23,7 @@ A free AI crypto scam detector and an open education hub. Everything below is fr
 ## Recognition
 
 - Our section "Inspecting a project you did not write" was merged into the [OWASP NPM Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/NPM_Security_Cheat_Sheet.html) ([PR #2908](https://github.com/OWASP/CheatSheetSeries/pull/2908)).
-- Our note on project package manager config files was merged into the [Security Alliance (SEAL) Frameworks](https://github.com/security-alliance/frameworks), in the DevSecOps section on execution paths in untrusted code ([PR #680](https://github.com/security-alliance/frameworks/pull/680)).
+- Our note on project package manager config files is part of the [Security Alliance (SEAL) Frameworks](https://frameworks.securityalliance.org/devsecops/developer-targeted-intrusions/execution-paths), on the DevSecOps page about execution paths in untrusted code ([PR #680](https://github.com/security-alliance/frameworks/pull/680), named in the [v0.0.3 release notes](https://github.com/security-alliance/frameworks/releases/tag/v0.0.3)).
 - The quiz is listed in [Cybersecurity Educational Resources](https://github.com/CSIRT-MU/edu-resources) by CSIRT-MU, Masaryk University.
 - The scam detector is listed in the [OSINT tool collection](https://github.com/cipher387/osint_stuff_tool_collection) by Cyb_detective and the [Awesome Crypto Tools Directory](https://github.com/CryptoToolsDirectory/Awesome-Crypto-Tools-Directory).
 - Our investigations are listed in [Awesome Financial Crime](https://github.com/SKR-35/Awesome-Financial-Crime) and named in its v1.6.0 release notes.
