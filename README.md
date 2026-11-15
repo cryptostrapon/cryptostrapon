@@ -25,11 +25,13 @@ A free AI crypto scam detector and an open education hub. Everything below is fr
 - Our section "Inspecting a project you did not write" was merged into the [OWASP NPM Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/NPM_Security_Cheat_Sheet.html) ([PR #2908](https://github.com/OWASP/CheatSheetSeries/pull/2908)).
 - Our note on project package manager config files is part of the [Security Alliance (SEAL) Frameworks](https://frameworks.securityalliance.org/devsecops/developer-targeted-intrusions/execution-paths), on the DevSecOps page about execution paths in untrusted code ([PR #680](https://github.com/security-alliance/frameworks/pull/680), named in the [v0.0.3 release notes](https://github.com/security-alliance/frameworks/releases/tag/v0.0.3)).
 - The quiz is listed in [Cybersecurity Educational Resources](https://github.com/CSIRT-MU/edu-resources) by CSIRT-MU, Masaryk University.
-- The scam detector is listed in the [OSINT tool collection](https://github.com/cipher387/osint_stuff_tool_collection) by Cyb_detective and the [Awesome Crypto Tools Directory](https://github.com/CryptoToolsDirectory/Awesome-Crypto-Tools-Directory).
+- The scam detector is listed in the [OSINT tool collection](https://github.com/cipher387/osint_stuff_tool_collection) by Cyb_detective, the [Awesome Crypto Tools Directory](https://github.com/CryptoToolsDirectory/Awesome-Crypto-Tools-Directory), and [Awesome Blockchain Security](https://github.com/bunturx/Awesome-Blockchain-Security) ([merged PR #1](https://github.com/bunturx/Awesome-Blockchain-Security/pull/1)).
 - Our investigations are listed in [Awesome Financial Crime](https://github.com/SKR-35/Awesome-Financial-Crime) and named in its v1.6.0 release notes.
 
 ## Contribute
 
 New scenarios, translations and corrections are welcome. Look for issues labelled **good first issue** in npm-install-audit, the quiz and the glossary. We publish our own audits too: see the v1.1 note in the quiz changelog.
+
+Follow [@cryptostrapon](https://github.com/cryptostrapon) for updates to these tools, scam scenarios and investigation methodology.
 
 Contact: cryptostrapon@proton.me
