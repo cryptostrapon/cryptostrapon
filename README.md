@@ -7,7 +7,7 @@ A free AI crypto scam detector and an open education hub. Everything below is fr
 ## Start here
 
 - **Check something suspicious:** [free AI scam detector](https://cryptostrapon.com/scam-detector), no sign-up
-- **Read the cases:** [Dark Bits](https://cryptostrapon.com/dark-bits), 57 documented investigations
+- **Read the cases:** [Dark Bits](https://cryptostrapon.com/dark-bits), 58 documented investigations
 - **Learn the terms:** [glossary of 306 crypto scam terms](https://cryptostrapon.com/glossary)
 - **Setting up a hardware wallet?** [Checklist before you start](https://github.com/cryptostrapon/cryptostrapon-public/blob/main/checklists/hardware-wallet-setup.md) ([ES](https://github.com/cryptostrapon/cryptostrapon-public/blob/main/checklists/hardware-wallet-setup.es.md))
 - **Lost funds?** [What to do next](https://cryptostrapon.com/report-crypto-theft)
