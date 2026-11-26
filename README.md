@@ -4,6 +4,10 @@
 
 A free AI crypto scam detector and an open education hub. Everything below is free to use and reuse.
 
+<p align="center"><a href="https://cryptostrapon.github.io/crypto-scam-quiz/"><img src="https://raw.githubusercontent.com/cryptostrapon/crypto-scam-quiz/main/quiz_demo.gif" alt="Crypto scam quiz: pick the safe answer in real scam scenarios" width="640"></a></p>
+
+<p align="center"><a href="https://cryptostrapon.github.io/crypto-scam-quiz/"><b>Take the crypto scam quiz</b></a> · 50 real-life scenarios · free, no sign-up · English and Spanish</p>
+
 ## Start here
 
 - **Check something suspicious:** [free AI scam detector](https://cryptostrapon.com/scam-detector), no sign-up
